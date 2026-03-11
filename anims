@@ -1,0 +1,843 @@
+--//animsIneedForCW_ap
+
+-- ── Anchor ──
+["Slash1"] = "rbxassetid://92314770647182",
+-- ReplicatedStorage.Shared.Assets.Melee.Anchor.Animations.Slash1
+["Slash2"] = "rbxassetid://136654287774707",
+-- ReplicatedStorage.Shared.Assets.Melee.Anchor.Animations.Slash2
+["Slash3"] = "rbxassetid://85188454028607",
+-- ReplicatedStorage.Shared.Assets.Melee.Anchor.Animations.Slash3
+
+-- ── Bardiche ──
+["Slash1"] = "rbxassetid://13003371543",
+-- ReplicatedStorage.Shared.Assets.Melee.Bardiche.Animations.Slash1
+["Slash2"] = "rbxassetid://13003373241",
+-- ReplicatedStorage.Shared.Assets.Melee.Bardiche.Animations.Slash2
+["Slash3"] = "rbxassetid://13003374745",
+-- ReplicatedStorage.Shared.Assets.Melee.Bardiche.Animations.Slash3
+["Slash1_2"] = "rbxassetid://13453522871",
+-- ReplicatedStorage.Shared.Assets.Melee.Bardiche.Animations.Slash1_2
+["Slash2_2"] = "rbxassetid://13453523825",
+-- ReplicatedStorage.Shared.Assets.Melee.Bardiche.Animations.Slash2_2
+["Slash3_2"] = "rbxassetid://13453526234",
+-- ReplicatedStorage.Shared.Assets.Melee.Bardiche.Animations.Slash3_2
+
+-- ── Bat ──
+["Slash1"] = "rbxassetid://13458819950",
+-- ReplicatedStorage.Shared.Assets.Melee.Bat.Animations.Slash1
+["Slash2"] = "rbxassetid://13458821366",
+-- ReplicatedStorage.Shared.Assets.Melee.Bat.Animations.Slash2
+["Slash3"] = "rbxassetid://13458822610",
+-- ReplicatedStorage.Shared.Assets.Melee.Bat.Animations.Slash3
+
+-- ── Baton ──
+["Slash1"] = "rbxassetid://8799315678",
+-- ReplicatedStorage.Shared.Assets.Melee.Baton.Animations.Slash1
+["Slash2"] = "rbxassetid://8799318064",
+-- ReplicatedStorage.Shared.Assets.Melee.Baton.Animations.Slash2
+["Slash3"] = "rbxassetid://8799319983",
+-- ReplicatedStorage.Shared.Assets.Melee.Baton.Animations.Slash3
+["Slash1_2"] = "rbxassetid://13453378028",
+-- ReplicatedStorage.Shared.Assets.Melee.Baton.Animations.Slash1_2
+["Slash2_2"] = "rbxassetid://13453379194",
+-- ReplicatedStorage.Shared.Assets.Melee.Baton.Animations.Slash2_2
+["Slash3_2"] = "rbxassetid://13453380525",
+-- ReplicatedStorage.Shared.Assets.Melee.Baton.Animations.Slash3_2
+
+-- ── BattleAxe ──
+["Slash1"] = "rbxassetid://6133492098",
+-- ReplicatedStorage.Shared.Assets.Melee.BattleAxe.Animations.Slash1
+["Slash2"] = "rbxassetid://6133492666",
+-- ReplicatedStorage.Shared.Assets.Melee.BattleAxe.Animations.Slash2
+["Slash3"] = "rbxassetid://6133494118",
+-- ReplicatedStorage.Shared.Assets.Melee.BattleAxe.Animations.Slash3
+["Slash1_2"] = "rbxassetid://13470791717",
+-- ReplicatedStorage.Shared.Assets.Melee.BattleAxe.Animations.Slash1_2
+["Slash2_2"] = "rbxassetid://13470794805",
+-- ReplicatedStorage.Shared.Assets.Melee.BattleAxe.Animations.Slash2_2
+["Slash3_2"] = "rbxassetid://13470796649",
+-- ReplicatedStorage.Shared.Assets.Melee.BattleAxe.Animations.Slash3_2
+
+-- ── BoStaff ──
+["Slash1"] = "rbxassetid://13458792827",
+-- ReplicatedStorage.Shared.Assets.Melee.BoStaff.Animations.Slash1
+["Slash2"] = "rbxassetid://13458794213",
+-- ReplicatedStorage.Shared.Assets.Melee.BoStaff.Animations.Slash2
+["Slash3"] = "rbxassetid://13458795865",
+-- ReplicatedStorage.Shared.Assets.Melee.BoStaff.Animations.Slash3
+
+-- ── BruteMace ──
+["Slash1"] = "rbxassetid://13458738217",
+-- ReplicatedStorage.Shared.Assets.Melee.BruteMace.Animations.Slash1
+["Slash2"] = "rbxassetid://13458739683",
+-- ReplicatedStorage.Shared.Assets.Melee.BruteMace.Animations.Slash2
+["Slash3"] = "rbxassetid://13458741435",
+-- ReplicatedStorage.Shared.Assets.Melee.BruteMace.Animations.Slash3
+
+-- ── CSM ──
+["Slash1"] = "rbxassetid://17636759328",
+-- ReplicatedStorage.Shared.Assets.Melee.CSM.Animations.Slash1
+["Slash2"] = "rbxassetid://17636761482",
+-- ReplicatedStorage.Shared.Assets.Melee.CSM.Animations.Slash2
+["Slash3"] = "rbxassetid://17636763405",
+-- ReplicatedStorage.Shared.Assets.Melee.CSM.Animations.Slash3
+
+-- ── CandyCaneLance ──
+["Slash3"] = "rbxassetid://105334413583215",
+-- ReplicatedStorage.Shared.Assets.Melee.CandyCaneLance.Animations.Slash3
+["Slash2"] = "rbxassetid://99526389273578",
+-- ReplicatedStorage.Shared.Assets.Melee.CandyCaneLance.Animations.Slash2
+["Slash1"] = "rbxassetid://70680139769880",
+-- ReplicatedStorage.Shared.Assets.Melee.CandyCaneLance.Animations.Slash1
+
+-- ── CeremonialKatar ──
+["Slash1"] = "rbxassetid://114321138397412",
+-- ReplicatedStorage.Shared.Assets.Melee.CeremonialKatar.Animations.Slash1
+["Slash2"] = "rbxassetid://87385405788248",
+-- ReplicatedStorage.Shared.Assets.Melee.CeremonialKatar.Animations.Slash2
+["Slash3"] = "rbxassetid://129371562468239",
+-- ReplicatedStorage.Shared.Assets.Melee.CeremonialKatar.Animations.Slash3
+
+-- ── Chainsaw ──
+["Slash1"] = "rbxassetid://10583004808",
+-- ReplicatedStorage.Shared.Assets.Melee.Chainsaw.Animations.Slash1
+
+-- ── Chainsword ──
+["Slash3"] = "rbxassetid://121163321880695",
+-- ReplicatedStorage.Shared.Assets.Melee.Chainsword.Animations.Slash3
+["Slash1"] = "rbxassetid://109431725159385",
+-- ReplicatedStorage.Shared.Assets.Melee.Chainsword.Animations.Slash1
+["Slash2"] = "rbxassetid://86360255951394",
+-- ReplicatedStorage.Shared.Assets.Melee.Chainsword.Animations.Slash2
+
+-- ── ChristmasDragonSlayer ──
+["Slash1"] = "rbxassetid://13454086975",
+-- ReplicatedStorage.Shared.Assets.Melee.ChristmasDragonSlayer.Animations.Slash1
+["Slash2"] = "rbxassetid://13454094816",
+-- ReplicatedStorage.Shared.Assets.Melee.ChristmasDragonSlayer.Animations.Slash2
+["Slash3"] = "rbxassetid://13454108126",
+-- ReplicatedStorage.Shared.Assets.Melee.ChristmasDragonSlayer.Animations.Slash3
+
+-- ── Club ──
+["Slash1"] = "rbxassetid://13458771089",
+-- ReplicatedStorage.Shared.Assets.Melee.Club.Animations.Slash1
+["Slash2"] = "rbxassetid://13458774680",
+-- ReplicatedStorage.Shared.Assets.Melee.Club.Animations.Slash2
+["Slash3"] = "rbxassetid://13458776313",
+-- ReplicatedStorage.Shared.Assets.Melee.Club.Animations.Slash3
+
+-- ── ColossalGreatsword ──
+["Slash1"] = "rbxassetid://13487525905",
+-- ReplicatedStorage.Shared.Assets.Melee.ColossalGreatsword.Animations.Slash1
+["Slash2"] = "rbxassetid://13487532262",
+-- ReplicatedStorage.Shared.Assets.Melee.ColossalGreatsword.Animations.Slash2
+["Slash3"] = "rbxassetid://13487539167",
+-- ReplicatedStorage.Shared.Assets.Melee.ColossalGreatsword.Animations.Slash3
+
+-- ── CombatKnife ──
+["Slash1"] = "rbxassetid://104731536762371",
+-- ReplicatedStorage.Shared.Assets.Melee.CombatKnife.Animations.Slash1
+["Slash2"] = "rbxassetid://103482824041769",
+-- ReplicatedStorage.Shared.Assets.Melee.CombatKnife.Animations.Slash2
+["Slash3"] = "rbxassetid://89412920654450",
+-- ReplicatedStorage.Shared.Assets.Melee.CombatKnife.Animations.Slash3
+
+-- ── Animations ──
+["Slash1"] = "rbxassetid://80343393635164",
+-- ReplicatedStorage.Shared.Assets.Melee.CorruptedCandyCane.Animations.Slashes.Slash1
+["Slash2"] = "rbxassetid://99516210913614",
+-- ReplicatedStorage.Shared.Assets.Melee.CorruptedCandyCane.Animations.Slashes.Slash2
+["Slash3"] = "rbxassetid://109286136757406",
+-- ReplicatedStorage.Shared.Assets.Melee.CorruptedCandyCane.Animations.Slashes.Slash3
+
+-- ── Crowbar ──
+["Slash1"] = "rbxassetid://13453344903",
+-- ReplicatedStorage.Shared.Assets.Melee.Crowbar.Animations.Slash1
+["Slash2"] = "rbxassetid://13453347164",
+-- ReplicatedStorage.Shared.Assets.Melee.Crowbar.Animations.Slash2
+["Slash3"] = "rbxassetid://13453348698",
+-- ReplicatedStorage.Shared.Assets.Melee.Crowbar.Animations.Slash3
+
+-- ── Crucible ──
+["Slash1"] = "rbxassetid://14325929070",
+-- ReplicatedStorage.Shared.Assets.Melee.Crucible.Animations.Slash1
+["Slash2"] = "rbxassetid://14325935633",
+-- ReplicatedStorage.Shared.Assets.Melee.Crucible.Animations.Slash2
+["Slash3"] = "rbxassetid://14325955952",
+-- ReplicatedStorage.Shared.Assets.Melee.Crucible.Animations.Slash3
+
+-- ── CtfFlag ──
+["Slash1"] = "rbxassetid://12655101012",
+-- ReplicatedStorage.Shared.Assets.Melee.CtfFlag.Animations.Slash1
+["Slash2"] = "rbxassetid://12655101767",
+-- ReplicatedStorage.Shared.Assets.Melee.CtfFlag.Animations.Slash2
+["Slash3"] = "rbxassetid://12655102507",
+-- ReplicatedStorage.Shared.Assets.Melee.CtfFlag.Animations.Slash3
+
+-- ── CurvedGreatsword ──
+["Slash1"] = "rbxassetid://13454921078",
+-- ReplicatedStorage.Shared.Assets.Melee.CurvedGreatsword.Animations.Slash1
+["Slash2"] = "rbxassetid://13454924779",
+-- ReplicatedStorage.Shared.Assets.Melee.CurvedGreatsword.Animations.Slash2
+["Slash3"] = "rbxassetid://13454928567",
+-- ReplicatedStorage.Shared.Assets.Melee.CurvedGreatsword.Animations.Slash3
+
+-- ── Cutlass ──
+["Slash1"] = "rbxassetid://13458888941",
+-- ReplicatedStorage.Shared.Assets.Melee.Cutlass.Animations.Slash1
+["Slash2"] = "rbxassetid://13458891308",
+-- ReplicatedStorage.Shared.Assets.Melee.Cutlass.Animations.Slash2
+["Slash3"] = "rbxassetid://13458893031",
+-- ReplicatedStorage.Shared.Assets.Melee.Cutlass.Animations.Slash3
+
+-- ── Darkheart ──
+["Slash1"] = "rbxassetid://14355186302",
+-- ReplicatedStorage.Shared.Assets.Melee.Darkheart.Animations.Slash1
+["Slash2"] = "rbxassetid://14355196750",
+-- ReplicatedStorage.Shared.Assets.Melee.Darkheart.Animations.Slash2
+["Slash3"] = "rbxassetid://14355215212",
+-- ReplicatedStorage.Shared.Assets.Melee.Darkheart.Animations.Slash3
+
+-- ── DominationHalberd ──
+["Slash1"] = "rbxassetid://13470921937",
+-- ReplicatedStorage.Shared.Assets.Melee.DominationHalberd.Animations.Slash1
+["Slash2"] = "rbxassetid://13470923980",
+-- ReplicatedStorage.Shared.Assets.Melee.DominationHalberd.Animations.Slash2
+["Slash3"] = "rbxassetid://13470927161",
+-- ReplicatedStorage.Shared.Assets.Melee.DominationHalberd.Animations.Slash3
+
+-- ── DragonSlayer ──
+["Slash1"] = "rbxassetid://13454086975",
+-- ReplicatedStorage.Shared.Assets.Melee.DragonSlayer.Animations.Slash1
+["Slash2"] = "rbxassetid://13454094816",
+-- ReplicatedStorage.Shared.Assets.Melee.DragonSlayer.Animations.Slash2
+["Slash3"] = "rbxassetid://13454108126",
+-- ReplicatedStorage.Shared.Assets.Melee.DragonSlayer.Animations.Slash3
+
+-- ── DualClaws ──
+["Slash1"] = "rbxassetid://13533161386",
+-- ReplicatedStorage.Shared.Assets.Melee.DualClaws.Animations.Slash1
+["Slash2"] = "rbxassetid://13533169839",
+-- ReplicatedStorage.Shared.Assets.Melee.DualClaws.Animations.Slash2
+["Slash3"] = "rbxassetid://13533166537",
+-- ReplicatedStorage.Shared.Assets.Melee.DualClaws.Animations.Slash3
+
+-- ── DualCleavers ──
+["Slash1"] = "rbxassetid://13487690720",
+-- ReplicatedStorage.Shared.Assets.Melee.DualCleavers.Animations.Slash1
+["Slash2"] = "rbxassetid://13487694424",
+-- ReplicatedStorage.Shared.Assets.Melee.DualCleavers.Animations.Slash2
+["Slash3"] = "rbxassetid://13487697556",
+-- ReplicatedStorage.Shared.Assets.Melee.DualCleavers.Animations.Slash3
+
+-- ── DualDaggers ──
+["Slash1"] = "rbxassetid://13003386922",
+-- ReplicatedStorage.Shared.Assets.Melee.DualDaggers.Animations.Slash1
+["Slash2"] = "rbxassetid://13003387788",
+-- ReplicatedStorage.Shared.Assets.Melee.DualDaggers.Animations.Slash2
+["Slash3"] = "rbxassetid://13003389005",
+-- ReplicatedStorage.Shared.Assets.Melee.DualDaggers.Animations.Slash3
+
+-- ── DualHammers ──
+["Slash2"] = "rbxassetid://13513253387",
+-- ReplicatedStorage.Shared.Assets.Melee.DualHammers.Animations.Slash2
+["Slash1"] = "rbxassetid://13513248209",
+-- ReplicatedStorage.Shared.Assets.Melee.DualHammers.Animations.Slash1
+["Slash3"] = "rbxassetid://13513260663",
+-- ReplicatedStorage.Shared.Assets.Melee.DualHammers.Animations.Slash3
+
+-- ── DualHatchets ──
+["Slash1"] = "rbxassetid://13488266396",
+-- ReplicatedStorage.Shared.Assets.Melee.DualHatchets.Animations.Slash1
+["Slash2"] = "rbxassetid://13488269825",
+-- ReplicatedStorage.Shared.Assets.Melee.DualHatchets.Animations.Slash2
+["Slash3"] = "rbxassetid://13488271888",
+-- ReplicatedStorage.Shared.Assets.Melee.DualHatchets.Animations.Slash3
+
+-- ── DualHookSwords ──
+["Slash1"] = "rbxassetid://13459060491",
+-- ReplicatedStorage.Shared.Assets.Melee.DualHookSwords.Animations.Slash1
+["Slash2"] = "rbxassetid://13459063516",
+-- ReplicatedStorage.Shared.Assets.Melee.DualHookSwords.Animations.Slash2
+["Slash3"] = "rbxassetid://13459065484",
+-- ReplicatedStorage.Shared.Assets.Melee.DualHookSwords.Animations.Slash3
+
+-- ── DualKatanas ──
+["Slash1"] = "rbxassetid://11983609900",
+-- ReplicatedStorage.Shared.Assets.Melee.DualKatanas.Animations.Slash1
+["Slash2"] = "rbxassetid://11983614935",
+-- ReplicatedStorage.Shared.Assets.Melee.DualKatanas.Animations.Slash2
+["Slash3"] = "rbxassetid://11983619415",
+-- ReplicatedStorage.Shared.Assets.Melee.DualKatanas.Animations.Slash3
+["Slash1_2"] = "rbxassetid://13459087816",
+-- ReplicatedStorage.Shared.Assets.Melee.DualKatanas.Animations.Slash1_2
+["Slash2_2"] = "rbxassetid://13459089457",
+-- ReplicatedStorage.Shared.Assets.Melee.DualKatanas.Animations.Slash2_2
+["Slash3_2"] = "rbxassetid://13459091355",
+-- ReplicatedStorage.Shared.Assets.Melee.DualKatanas.Animations.Slash3_2
+
+-- ── DualMachetes ──
+["Slash1"] = "rbxassetid://13487607421",
+-- ReplicatedStorage.Shared.Assets.Melee.DualMachetes.Animations.Slash1
+["Slash2"] = "rbxassetid://13487613209",
+-- ReplicatedStorage.Shared.Assets.Melee.DualMachetes.Animations.Slash2
+["Slash3"] = "rbxassetid://13487633049",
+-- ReplicatedStorage.Shared.Assets.Melee.DualMachetes.Animations.Slash3
+
+-- ── DualNaginata ──
+["Slash1"] = "rbxassetid://13487487824",
+-- ReplicatedStorage.Shared.Assets.Melee.DualNaginata.Animations.Slash1
+["Slash2"] = "rbxassetid://13487490965",
+-- ReplicatedStorage.Shared.Assets.Melee.DualNaginata.Animations.Slash2
+["Slash3"] = "rbxassetid://13487493921",
+-- ReplicatedStorage.Shared.Assets.Melee.DualNaginata.Animations.Slash3
+
+-- ── DualSabers ──
+["Slash1"] = "rbxassetid://15730133423",
+-- ReplicatedStorage.Shared.Assets.Melee.DualSabers.Animations.Slash1
+["Slash2"] = "rbxassetid://15730136689",
+-- ReplicatedStorage.Shared.Assets.Melee.DualSabers.Animations.Slash2
+["Slash3"] = "rbxassetid://15730143498",
+-- ReplicatedStorage.Shared.Assets.Melee.DualSabers.Animations.Slash3
+
+-- ── DualSidedSaber ──
+["Slash1"] = "rbxassetid://14256317131",
+-- ReplicatedStorage.Shared.Assets.Melee.DualSidedSaber.Animations.Slash1
+["Slash2"] = "rbxassetid://14256325381",
+-- ReplicatedStorage.Shared.Assets.Melee.DualSidedSaber.Animations.Slash2
+["Slash3"] = "rbxassetid://14256334579",
+-- ReplicatedStorage.Shared.Assets.Melee.DualSidedSaber.Animations.Slash3
+
+-- ── DualSkiSwords ──
+["Slash1"] = "rbxassetid://113874522821206",
+-- ReplicatedStorage.Shared.Assets.Melee.DualSkiSwords.Animations.Slash1
+["Slash2"] = "rbxassetid://99215713045268",
+-- ReplicatedStorage.Shared.Assets.Melee.DualSkiSwords.Animations.Slash2
+["Slash3"] = "rbxassetid://80713889248869",
+-- ReplicatedStorage.Shared.Assets.Melee.DualSkiSwords.Animations.Slash3
+
+-- ── DualTomahawks ──
+["Slash3"] = "rbxassetid://13003603038",
+-- ReplicatedStorage.Shared.Assets.Melee.DualTomahawks.Animations.Slash3
+["Slash2"] = "rbxassetid://13003602239",
+-- ReplicatedStorage.Shared.Assets.Melee.DualTomahawks.Animations.Slash2
+["Slash1"] = "rbxassetid://13003600953",
+-- ReplicatedStorage.Shared.Assets.Melee.DualTomahawks.Animations.Slash1
+["Slash1_2"] = "rbxassetid://13459075973",
+-- ReplicatedStorage.Shared.Assets.Melee.DualTomahawks.Animations.Slash1_2
+["Slash2_2"] = "rbxassetid://13459076963",
+-- ReplicatedStorage.Shared.Assets.Melee.DualTomahawks.Animations.Slash2_2
+["Slash3_2"] = "rbxassetid://13459077658",
+-- ReplicatedStorage.Shared.Assets.Melee.DualTomahawks.Animations.Slash3_2
+
+-- ── EnergyBlade ──
+["Slash1"] = "rbxassetid://14244766305",
+-- ReplicatedStorage.Shared.Assets.Melee.EnergyBlade.Animations.Slash1
+["Slash2"] = "rbxassetid://14244770808",
+-- ReplicatedStorage.Shared.Assets.Melee.EnergyBlade.Animations.Slash2
+["Slash3"] = "rbxassetid://14244781831",
+-- ReplicatedStorage.Shared.Assets.Melee.EnergyBlade.Animations.Slash3
+
+-- ── FireAxe ──
+["Slash1"] = "rbxassetid://13458758128",
+-- ReplicatedStorage.Shared.Assets.Melee.FireAxe.Animations.Slash1
+["Slash2"] = "rbxassetid://13458759834",
+-- ReplicatedStorage.Shared.Assets.Melee.FireAxe.Animations.Slash2
+["Slash3"] = "rbxassetid://13458760595",
+-- ReplicatedStorage.Shared.Assets.Melee.FireAxe.Animations.Slash3
+
+-- ── Fists ──
+["Slash1"] = "rbxassetid://9130656296",
+-- ReplicatedStorage.Shared.Assets.Melee.Fists.Animations.Slash1
+["Slash2"] = "rbxassetid://9130659525",
+-- ReplicatedStorage.Shared.Assets.Melee.Fists.Animations.Slash2
+["Slash3"] = "rbxassetid://9130662282",
+-- ReplicatedStorage.Shared.Assets.Melee.Fists.Animations.Slash3
+
+-- ── Flail ──
+["Slash1"] = "rbxassetid://13460447042",
+-- ReplicatedStorage.Shared.Assets.Melee.Flail.Animations.Slash1
+["Slash2"] = "rbxassetid://13460450869",
+-- ReplicatedStorage.Shared.Assets.Melee.Flail.Animations.Slash2
+["Slash3"] = "rbxassetid://13460455087",
+-- ReplicatedStorage.Shared.Assets.Melee.Flail.Animations.Slash3
+
+-- ── Flamberge ──
+["Slash1"] = "rbxassetid://7047913825",
+-- ReplicatedStorage.Shared.Assets.Melee.Flamberge.Animations.Slash1
+["Slash2"] = "rbxassetid://7048081494",
+-- ReplicatedStorage.Shared.Assets.Melee.Flamberge.Animations.Slash2
+["Slash3"] = "rbxassetid://7076137002",
+-- ReplicatedStorage.Shared.Assets.Melee.Flamberge.Animations.Slash3
+["Slash1_2"] = "rbxassetid://13458998076",
+-- ReplicatedStorage.Shared.Assets.Melee.Flamberge.Animations.Slash1_2
+["Slash2_2"] = "rbxassetid://13459005621",
+-- ReplicatedStorage.Shared.Assets.Melee.Flamberge.Animations.Slash2_2
+["Slash3_2"] = "rbxassetid://13459007522",
+-- ReplicatedStorage.Shared.Assets.Melee.Flamberge.Animations.Slash3_2
+
+-- ── Gladius ──
+["Slash1"] = "rbxassetid://13458968242",
+-- ReplicatedStorage.Shared.Assets.Melee.Gladius.Animations.Slash1
+["Slash2"] = "rbxassetid://13454380936",
+-- ReplicatedStorage.Shared.Assets.Melee.Gladius.Animations.Slash2
+["Slash3"] = "rbxassetid://13454387127",
+-- ReplicatedStorage.Shared.Assets.Melee.Gladius.Animations.Slash3
+
+-- ── Glaive ──
+["Slash1"] = "rbxassetid://13321471163",
+-- ReplicatedStorage.Shared.Assets.Melee.Glaive.Animations.Slash1
+["Slash2"] = "rbxassetid://13321472973",
+-- ReplicatedStorage.Shared.Assets.Melee.Glaive.Animations.Slash2
+["Slash3"] = "rbxassetid://13321474310",
+-- ReplicatedStorage.Shared.Assets.Melee.Glaive.Animations.Slash3
+
+-- ── GolfClub ──
+["Slash1"] = "rbxassetid://13470827948",
+-- ReplicatedStorage.Shared.Assets.Melee.GolfClub.Animations.Slash1
+["Slash2"] = "rbxassetid://13470830351",
+-- ReplicatedStorage.Shared.Assets.Melee.GolfClub.Animations.Slash2
+["Slash3"] = "rbxassetid://13470833773",
+-- ReplicatedStorage.Shared.Assets.Melee.GolfClub.Animations.Slash3
+
+-- ── GreatAxe ──
+["Slash1"] = "rbxassetid://13487403935",
+-- ReplicatedStorage.Shared.Assets.Melee.GreatAxe.Animations.Slash1
+["Slash2"] = "rbxassetid://13487407224",
+-- ReplicatedStorage.Shared.Assets.Melee.GreatAxe.Animations.Slash2
+["Slash3"] = "rbxassetid://13487411398",
+-- ReplicatedStorage.Shared.Assets.Melee.GreatAxe.Animations.Slash3
+
+-- ── Greatsword ──
+["Slash1"] = "rbxassetid://13487449439",
+-- ReplicatedStorage.Shared.Assets.Melee.Greatsword.Animations.Slash1
+["Slash2"] = "rbxassetid://13487453851",
+-- ReplicatedStorage.Shared.Assets.Melee.Greatsword.Animations.Slash2
+["Slash3"] = "rbxassetid://13487460506",
+-- ReplicatedStorage.Shared.Assets.Melee.Greatsword.Animations.Slash3
+
+-- ── Halberd ──
+["Slash3"] = "rbxassetid://13470927161",
+-- ReplicatedStorage.Shared.Assets.Melee.Halberd.Animations.Slash3
+["Slash2"] = "rbxassetid://13470923980",
+-- ReplicatedStorage.Shared.Assets.Melee.Halberd.Animations.Slash2
+["Slash1"] = "rbxassetid://13470921937",
+-- ReplicatedStorage.Shared.Assets.Melee.Halberd.Animations.Slash1
+
+-- ── Hammer ──
+["Slash1"] = "rbxassetid://13458832975",
+-- ReplicatedStorage.Shared.Assets.Melee.Hammer.Animations.Slash1
+["Slash2"] = "rbxassetid://13458834726",
+-- ReplicatedStorage.Shared.Assets.Melee.Hammer.Animations.Slash2
+["Slash3"] = "rbxassetid://13458836125",
+-- ReplicatedStorage.Shared.Assets.Melee.Hammer.Animations.Slash3
+
+-- ── HeavyScythe ──
+["Slash1"] = "rbxassetid://13458806185",
+-- ReplicatedStorage.Shared.Assets.Melee.HeavyScythe.Animations.Slash1
+["Slash3"] = "rbxassetid://13458807962",
+-- ReplicatedStorage.Shared.Assets.Melee.HeavyScythe.Animations.Slash3
+["Slash2"] = "rbxassetid://13458807233",
+-- ReplicatedStorage.Shared.Assets.Melee.HeavyScythe.Animations.Slash2
+
+-- ── HiddenBlade ──
+["Slash1"] = "rbxassetid://122305234199043",
+-- ReplicatedStorage.Shared.Assets.Melee.HiddenBlade.Animations.Slash1
+["Slash2"] = "rbxassetid://120742811600981",
+-- ReplicatedStorage.Shared.Assets.Melee.HiddenBlade.Animations.Slash2
+["Slash3"] = "rbxassetid://87281367936443",
+-- ReplicatedStorage.Shared.Assets.Melee.HiddenBlade.Animations.Slash3
+
+-- ── IronSword ──
+["Slash1"] = "rbxassetid://6243323055",
+-- ReplicatedStorage.Shared.Assets.Melee.IronSword.Animations.Slash1
+["Slash2"] = "rbxassetid://6243325311",
+-- ReplicatedStorage.Shared.Assets.Melee.IronSword.Animations.Slash2
+["Slash3"] = "rbxassetid://6243326071",
+-- ReplicatedStorage.Shared.Assets.Melee.IronSword.Animations.Slash3
+["Slash1_2"] = "rbxassetid://13458968242",
+-- ReplicatedStorage.Shared.Assets.Melee.IronSword.Animations.Slash1_2
+["Slash2_2"] = "rbxassetid://13458969831",
+-- ReplicatedStorage.Shared.Assets.Melee.IronSword.Animations.Slash2_2
+["Slash3_2"] = "rbxassetid://13458971856",
+-- ReplicatedStorage.Shared.Assets.Melee.IronSword.Animations.Slash3_2
+
+-- ── Kanabo ──
+["Slash1"] = "rbxassetid://13513218511",
+-- ReplicatedStorage.Shared.Assets.Melee.Kanabo.Animations.Slash1
+["Slash3"] = "rbxassetid://13513227506",
+-- ReplicatedStorage.Shared.Assets.Melee.Kanabo.Animations.Slash3
+["Slash2"] = "rbxassetid://13513221659",
+-- ReplicatedStorage.Shared.Assets.Melee.Kanabo.Animations.Slash2
+
+-- ── Katana ──
+["Slash1"] = "rbxassetid://6145117792",
+-- ReplicatedStorage.Shared.Assets.Melee.Katana.Animations.Slash1
+["Slash2"] = "rbxassetid://6145118595",
+-- ReplicatedStorage.Shared.Assets.Melee.Katana.Animations.Slash2
+["Slash3"] = "rbxassetid://6145119463",
+-- ReplicatedStorage.Shared.Assets.Melee.Katana.Animations.Slash3
+["Slash1_2"] = "rbxassetid://11887604782",
+-- ReplicatedStorage.Shared.Assets.Melee.Katana.Animations.Slash1_2
+["Slash2_2"] = "rbxassetid://11887607414",
+-- ReplicatedStorage.Shared.Assets.Melee.Katana.Animations.Slash2_2
+["Slash3_2"] = "rbxassetid://11887610246",
+-- ReplicatedStorage.Shared.Assets.Melee.Katana.Animations.Slash3_2
+
+-- ── Khopesh ──
+["Slash1"] = "rbxassetid://12230750343",
+-- ReplicatedStorage.Shared.Assets.Melee.Khopesh.Animations.Slash1
+["Slash2"] = "rbxassetid://12230754372",
+-- ReplicatedStorage.Shared.Assets.Melee.Khopesh.Animations.Slash2
+["Slash3"] = "rbxassetid://12230746617",
+-- ReplicatedStorage.Shared.Assets.Melee.Khopesh.Animations.Slash3
+
+-- ── Kusarigama ──
+["Slash1"] = "rbxassetid://13569806250",
+-- ReplicatedStorage.Shared.Assets.Melee.Kusarigama.Animations.Slash1
+["Slash2"] = "rbxassetid://13569811288",
+-- ReplicatedStorage.Shared.Assets.Melee.Kusarigama.Animations.Slash2
+["Slash3"] = "rbxassetid://13619253502",
+-- ReplicatedStorage.Shared.Assets.Melee.Kusarigama.Animations.Slash3
+
+-- ── Lance ──
+["Slash1"] = "rbxassetid://11775630445",
+-- ReplicatedStorage.Shared.Assets.Melee.Lance.Animations.Slash1
+["Slash3"] = "rbxassetid://11775634053",
+-- ReplicatedStorage.Shared.Assets.Melee.Lance.Animations.Slash3
+["Slash2"] = "rbxassetid://11775632454",
+-- ReplicatedStorage.Shared.Assets.Melee.Lance.Animations.Slash2
+
+-- ── LanceOfLonginus ──
+["Slash1"] = "rbxassetid://99407071446135",
+-- ReplicatedStorage.Shared.Assets.Melee.LanceOfLonginus.Animations.Slash1
+["Slash2"] = "rbxassetid://99306507196144",
+-- ReplicatedStorage.Shared.Assets.Melee.LanceOfLonginus.Animations.Slash2
+["Slash3"] = "rbxassetid://124275187959066",
+-- ReplicatedStorage.Shared.Assets.Melee.LanceOfLonginus.Animations.Slash3
+
+-- ── LeviathanAxe ──
+["Slash1"] = "rbxassetid://13320509148",
+-- ReplicatedStorage.Shared.Assets.Melee.LeviathanAxe.Animations.Slash1
+["Slash2"] = "rbxassetid://13320511216",
+-- ReplicatedStorage.Shared.Assets.Melee.LeviathanAxe.Animations.Slash2
+["Slash3"] = "rbxassetid://13320513403",
+-- ReplicatedStorage.Shared.Assets.Melee.LeviathanAxe.Animations.Slash3
+
+-- ── Liuyedao ──
+["Slash1"] = "rbxassetid://13321346498",
+-- ReplicatedStorage.Shared.Assets.Melee.Liuyedao.Animations.Slash1
+["Slash2"] = "rbxassetid://13321347601",
+-- ReplicatedStorage.Shared.Assets.Melee.Liuyedao.Animations.Slash2
+["Slash3"] = "rbxassetid://13321348239",
+-- ReplicatedStorage.Shared.Assets.Melee.Liuyedao.Animations.Slash3
+
+-- ── Longsword ──
+["Slash2"] = "rbxassetid://6145039913",
+-- ReplicatedStorage.Shared.Assets.Melee.Longsword.Animations.Slash2
+["Slash1"] = "rbxassetid://6145038858",
+-- ReplicatedStorage.Shared.Assets.Melee.Longsword.Animations.Slash1
+["Slash3"] = "rbxassetid://6145041133",
+-- ReplicatedStorage.Shared.Assets.Melee.Longsword.Animations.Slash3
+["Slash1_2"] = "rbxassetid://13336409397",
+-- ReplicatedStorage.Shared.Assets.Melee.Longsword.Animations.Slash1_2
+["Slash2_2"] = "rbxassetid://13336411199",
+-- ReplicatedStorage.Shared.Assets.Melee.Longsword.Animations.Slash2_2
+["Slash3_2"] = "rbxassetid://13336412445",
+-- ReplicatedStorage.Shared.Assets.Melee.Longsword.Animations.Slash3_2
+
+-- ── Mace ──
+["Slash1"] = "rbxassetid://13003338759",
+-- ReplicatedStorage.Shared.Assets.Melee.Mace.Animations.Slash1
+["Slash3"] = "rbxassetid://13003341371",
+-- ReplicatedStorage.Shared.Assets.Melee.Mace.Animations.Slash3
+["Slash2"] = "rbxassetid://13003340033",
+-- ReplicatedStorage.Shared.Assets.Melee.Mace.Animations.Slash2
+
+-- ── Macuahuitl ──
+["Slash1"] = "rbxassetid://13460377688",
+-- ReplicatedStorage.Shared.Assets.Melee.Macuahuitl.Animations.Slash1
+["Slash2"] = "rbxassetid://13460380982",
+-- ReplicatedStorage.Shared.Assets.Melee.Macuahuitl.Animations.Slash2
+["Slash3"] = "rbxassetid://13460385836",
+-- ReplicatedStorage.Shared.Assets.Melee.Macuahuitl.Animations.Slash3
+
+-- ── MetalBat ──
+["Slash1"] = "rbxassetid://13458873611",
+-- ReplicatedStorage.Shared.Assets.Melee.MetalBat.Animations.Slash1
+["Slash2"] = "rbxassetid://13458875688",
+-- ReplicatedStorage.Shared.Assets.Melee.MetalBat.Animations.Slash2
+["Slash3"] = "rbxassetid://13458877566",
+-- ReplicatedStorage.Shared.Assets.Melee.MetalBat.Animations.Slash3
+
+-- ── MoonwaveScythe ──
+["Slash1"] = "rbxassetid://13458806185",
+-- ReplicatedStorage.Shared.Assets.Melee.MoonwaveScythe.Animations.Slash1
+["Slash3"] = "rbxassetid://13458807962",
+-- ReplicatedStorage.Shared.Assets.Melee.MoonwaveScythe.Animations.Slash3
+["Slash2"] = "rbxassetid://13458807233",
+-- ReplicatedStorage.Shared.Assets.Melee.MoonwaveScythe.Animations.Slash2
+
+-- ── Naginata ──
+["Slash1"] = "rbxassetid://13458941967",
+-- ReplicatedStorage.Shared.Assets.Melee.Naginata.Animations.Slash1
+["Slash2"] = "rbxassetid://13458943622",
+-- ReplicatedStorage.Shared.Assets.Melee.Naginata.Animations.Slash2
+["Slash3"] = "rbxassetid://13458945372",
+-- ReplicatedStorage.Shared.Assets.Melee.Naginata.Animations.Slash3
+
+-- ── NeptunesTrident ──
+["Slash1"] = "rbxassetid://97571841775990",
+-- ReplicatedStorage.Shared.Assets.Melee.NeptunesTrident.Animations.Slash1
+["Slash2"] = "rbxassetid://77385981439891",
+-- ReplicatedStorage.Shared.Assets.Melee.NeptunesTrident.Animations.Slash2
+["Slash3"] = "rbxassetid://127039713584927",
+-- ReplicatedStorage.Shared.Assets.Melee.NeptunesTrident.Animations.Slash3
+
+-- ── Nunchucks ──
+["Slash1"] = "rbxassetid://13513283385",
+-- ReplicatedStorage.Shared.Assets.Melee.Nunchucks.Animations.Slash1
+["Slash2"] = "rbxassetid://13513287193",
+-- ReplicatedStorage.Shared.Assets.Melee.Nunchucks.Animations.Slash2
+["Slash3"] = "rbxassetid://13513291103",
+-- ReplicatedStorage.Shared.Assets.Melee.Nunchucks.Animations.Slash3
+
+-- ── Odachi ──
+["Slash1"] = "rbxassetid://92314770647182",
+-- ReplicatedStorage.Shared.Assets.Melee.Odachi.Animations.Slash1
+["Slash3"] = "rbxassetid://85188454028607",
+-- ReplicatedStorage.Shared.Assets.Melee.Odachi.Animations.Slash3
+["Slash2"] = "rbxassetid://136654287774707",
+-- ReplicatedStorage.Shared.Assets.Melee.Odachi.Animations.Slash2
+
+-- ── PalmAxe ──
+["Slash1"] = "rbxassetid://13458903399",
+-- ReplicatedStorage.Shared.Assets.Melee.PalmAxe.Animations.Slash1
+["Slash2"] = "rbxassetid://13458904664",
+-- ReplicatedStorage.Shared.Assets.Melee.PalmAxe.Animations.Slash2
+["Slash3"] = "rbxassetid://13458905710",
+-- ReplicatedStorage.Shared.Assets.Melee.PalmAxe.Animations.Slash3
+
+-- ── PipeWrench ──
+["Slash1"] = "rbxassetid://83297727532927",
+-- ReplicatedStorage.Shared.Assets.Melee.PipeWrench.Animations.Slash1
+["Slash2"] = "rbxassetid://97375083749463",
+-- ReplicatedStorage.Shared.Assets.Melee.PipeWrench.Animations.Slash2
+["Slash3"] = "rbxassetid://80313390097871",
+-- ReplicatedStorage.Shared.Assets.Melee.PipeWrench.Animations.Slash3
+
+-- ── Poleaxe ──
+["Slash3"] = "rbxassetid://13470927161",
+-- ReplicatedStorage.Shared.Assets.Melee.Poleaxe.Animations.Slash3
+["Slash2"] = "rbxassetid://13470923980",
+-- ReplicatedStorage.Shared.Assets.Melee.Poleaxe.Animations.Slash2
+["Slash1"] = "rbxassetid://13470921937",
+-- ReplicatedStorage.Shared.Assets.Melee.Poleaxe.Animations.Slash1
+
+-- ── Polehammer ──
+["Slash1"] = "rbxassetid://13470946444",
+-- ReplicatedStorage.Shared.Assets.Melee.Polehammer.Animations.Slash1
+["Slash2"] = "rbxassetid://13470948534",
+-- ReplicatedStorage.Shared.Assets.Melee.Polehammer.Animations.Slash2
+["Slash3"] = "rbxassetid://13470952920",
+-- ReplicatedStorage.Shared.Assets.Melee.Polehammer.Animations.Slash3
+
+-- ── Prototype003 ──
+["Slash1"] = "rbxassetid://108047785331024",
+-- ReplicatedStorage.Shared.Assets.Melee.Prototype003.Animations.Slash1
+["Slash2"] = "rbxassetid://137254287273482",
+-- ReplicatedStorage.Shared.Assets.Melee.Prototype003.Animations.Slash2
+["Slash3"] = "rbxassetid://97011162971439",
+-- ReplicatedStorage.Shared.Assets.Melee.Prototype003.Animations.Slash3
+
+-- ── Rapier ──
+["Slash1"] = "rbxassetid://11775620193",
+-- ReplicatedStorage.Shared.Assets.Melee.Rapier.Animations.Slash1
+["Slash2"] = "rbxassetid://11775622157",
+-- ReplicatedStorage.Shared.Assets.Melee.Rapier.Animations.Slash2
+["Slash3"] = "rbxassetid://11775624187",
+-- ReplicatedStorage.Shared.Assets.Melee.Rapier.Animations.Slash3
+
+-- ── RiotShield ──
+["Slash1"] = "rbxassetid://11403397524",
+-- ReplicatedStorage.Shared.Assets.Melee.RiotShield.Animations.Slash1
+["Slash2"] = "rbxassetid://11403400425",
+-- ReplicatedStorage.Shared.Assets.Melee.RiotShield.Animations.Slash2
+["Slash3"] = "rbxassetid://11403403549",
+-- ReplicatedStorage.Shared.Assets.Melee.RiotShield.Animations.Slash3
+
+-- ── Saber ──
+["Slash1"] = "rbxassetid://17073840215",
+-- ReplicatedStorage.Shared.Assets.Melee.Saber.Animations.Slash1
+["Slash2"] = "rbxassetid://17073851029",
+-- ReplicatedStorage.Shared.Assets.Melee.Saber.Animations.Slash2
+["Slash3"] = "rbxassetid://17073860782",
+-- ReplicatedStorage.Shared.Assets.Melee.Saber.Animations.Slash3
+
+-- ── Sabre ──
+["Slash1"] = "rbxassetid://13454374590",
+-- ReplicatedStorage.Shared.Assets.Melee.Sabre.Animations.Slash1
+["Slash2"] = "rbxassetid://13454380936",
+-- ReplicatedStorage.Shared.Assets.Melee.Sabre.Animations.Slash2
+["Slash3"] = "rbxassetid://13454387127",
+-- ReplicatedStorage.Shared.Assets.Melee.Sabre.Animations.Slash3
+
+-- ── Samehada ──
+["Slash1"] = "rbxassetid://17797748395",
+-- ReplicatedStorage.Shared.Assets.Melee.Samehada.Animations.Slash1
+["Slash2"] = "rbxassetid://17797657098",
+-- ReplicatedStorage.Shared.Assets.Melee.Samehada.Animations.Slash2
+["Slash3"] = "rbxassetid://17797807299",
+-- ReplicatedStorage.Shared.Assets.Melee.Samehada.Animations.Slash3
+
+-- ── Scimitar ──
+["Slash1"] = "rbxassetid://13458954358",
+-- ReplicatedStorage.Shared.Assets.Melee.Scimitar.Animations.Slash1
+["Slash2"] = "rbxassetid://13458956015",
+-- ReplicatedStorage.Shared.Assets.Melee.Scimitar.Animations.Slash2
+["Slash3"] = "rbxassetid://13458958014",
+-- ReplicatedStorage.Shared.Assets.Melee.Scimitar.Animations.Slash3
+
+-- ── ScissorBlades ──
+["Slash1"] = "rbxassetid://73703056374129",
+-- ReplicatedStorage.Shared.Assets.Melee.ScissorBlades.Animations.Slash1
+["Slash2"] = "rbxassetid://104177904133176",
+-- ReplicatedStorage.Shared.Assets.Melee.ScissorBlades.Animations.Slash2
+["Slash3"] = "rbxassetid://70831581241159",
+-- ReplicatedStorage.Shared.Assets.Melee.ScissorBlades.Animations.Slash3
+
+-- ── Scythe ──
+["Slash1"] = "rbxassetid://13454795171",
+-- ReplicatedStorage.Shared.Assets.Melee.Scythe.Animations.Slash1
+["Slash3"] = "rbxassetid://13454799116",
+-- ReplicatedStorage.Shared.Assets.Melee.Scythe.Animations.Slash3
+["Slash2"] = "rbxassetid://13454796982",
+-- ReplicatedStorage.Shared.Assets.Melee.Scythe.Animations.Slash2
+
+-- ── Shikomizue ──
+["Slash3"] = "rbxassetid://12157718032",
+-- ReplicatedStorage.Shared.Assets.Melee.Shikomizue.Animations.Slash3
+["Slash2"] = "rbxassetid://12157706721",
+-- ReplicatedStorage.Shared.Assets.Melee.Shikomizue.Animations.Slash2
+["Slash1"] = "rbxassetid://12157712325",
+-- ReplicatedStorage.Shared.Assets.Melee.Shikomizue.Animations.Slash1
+
+-- ── Shovel ──
+["Slash1"] = "rbxassetid://13458915980",
+-- ReplicatedStorage.Shared.Assets.Melee.Shovel.Animations.Slash1
+["Slash2"] = "rbxassetid://13458917033",
+-- ReplicatedStorage.Shared.Assets.Melee.Shovel.Animations.Slash2
+["Slash3"] = "rbxassetid://13458917637",
+-- ReplicatedStorage.Shared.Assets.Melee.Shovel.Animations.Slash3
+
+-- ── Sickle ──
+["Slash1"] = "rbxassetid://13460344260",
+-- ReplicatedStorage.Shared.Assets.Melee.Sickle.Animations.Slash1
+["Slash2"] = "rbxassetid://13460348445",
+-- ReplicatedStorage.Shared.Assets.Melee.Sickle.Animations.Slash2
+["Slash3"] = "rbxassetid://13460352630",
+-- ReplicatedStorage.Shared.Assets.Melee.Sickle.Animations.Slash3
+
+-- ── Sledgehammer ──
+["Slash3"] = "rbxassetid://13470796649",
+-- ReplicatedStorage.Shared.Assets.Melee.Sledgehammer.Animations.Slash3
+["Slash2"] = "rbxassetid://13470794805",
+-- ReplicatedStorage.Shared.Assets.Melee.Sledgehammer.Animations.Slash2
+["Slash1"] = "rbxassetid://13470791717",
+-- ReplicatedStorage.Shared.Assets.Melee.Sledgehammer.Animations.Slash1
+
+-- ── SnowShovel ──
+["Slash1"] = "rbxassetid://72678196172132",
+-- ReplicatedStorage.Shared.Assets.Melee.SnowShovel.Animations.Slash1
+["Slash2"] = "rbxassetid://87715267970660",
+-- ReplicatedStorage.Shared.Assets.Melee.SnowShovel.Animations.Slash2
+["Slash3"] = "rbxassetid://98523359536929",
+-- ReplicatedStorage.Shared.Assets.Melee.SnowShovel.Animations.Slash3
+
+-- ── Spear ──
+["Slash1"] = "rbxassetid://13453458401",
+-- ReplicatedStorage.Shared.Assets.Melee.Spear.Animations.Slash1
+["Slash2"] = "rbxassetid://13453459729",
+-- ReplicatedStorage.Shared.Assets.Melee.Spear.Animations.Slash2
+
+-- ── SteelSword ──
+["Slash1"] = "rbxassetid://13513183910",
+-- ReplicatedStorage.Shared.Assets.Melee.SteelSword.Animations.Slash1
+["Slash2"] = "rbxassetid://13513189886",
+-- ReplicatedStorage.Shared.Assets.Melee.SteelSword.Animations.Slash2
+["Slash3"] = "rbxassetid://13513196385",
+-- ReplicatedStorage.Shared.Assets.Melee.SteelSword.Animations.Slash3
+
+-- ── StygianHammer ──
+["Slash3"] = "rbxassetid://127595658235194",
+-- ReplicatedStorage.Shared.Assets.Melee.StygianHammer.Animations.Slash3
+["Slash2"] = "rbxassetid://92391044035987",
+-- ReplicatedStorage.Shared.Assets.Melee.StygianHammer.Animations.Slash2
+["Slash1"] = "rbxassetid://107070373354144",
+-- ReplicatedStorage.Shared.Assets.Melee.StygianHammer.Animations.Slash1
+
+-- ── TotsukaBlade ──
+["Slash1"] = "rbxassetid://17050507041",
+-- ReplicatedStorage.Shared.Assets.Melee.TotsukaBlade.Animations.Slash1
+["Slash2"] = "rbxassetid://17050528632",
+-- ReplicatedStorage.Shared.Assets.Melee.TotsukaBlade.Animations.Slash2
+["Slash3"] = "rbxassetid://17050543918",
+-- ReplicatedStorage.Shared.Assets.Melee.TotsukaBlade.Animations.Slash3
+
+-- ── Trident ──
+["Slash1"] = "rbxassetid://13459030184",
+-- ReplicatedStorage.Shared.Assets.Melee.Trident.Animations.Slash1
+["Slash2"] = "rbxassetid://13459032381",
+-- ReplicatedStorage.Shared.Assets.Melee.Trident.Animations.Slash2
+
+-- ── TripleKatanas ──
+["Slash1"] = "rbxassetid://13488180372",
+-- ReplicatedStorage.Shared.Assets.Melee.TripleKatanas.Animations.Slash1
+["Slash2"] = "rbxassetid://13488184383",
+-- ReplicatedStorage.Shared.Assets.Melee.TripleKatanas.Animations.Slash2
+["Slash3"] = "rbxassetid://13488192017",
+-- ReplicatedStorage.Shared.Assets.Melee.TripleKatanas.Animations.Slash3
+
+-- ── WarAxe ──
+["Slash1"] = "rbxassetid://7533333743",
+-- ReplicatedStorage.Shared.Assets.Melee.WarAxe.Animations.Slash1
+["Slash2"] = "rbxassetid://7533334962",
+-- ReplicatedStorage.Shared.Assets.Melee.WarAxe.Animations.Slash2
+["Slash3"] = "rbxassetid://7533335921",
+-- ReplicatedStorage.Shared.Assets.Melee.WarAxe.Animations.Slash3
+["Slash1_2"] = "rbxassetid://13458984551",
+-- ReplicatedStorage.Shared.Assets.Melee.WarAxe.Animations.Slash1_2
+["Slash2_2"] = "rbxassetid://13458986160",
+-- ReplicatedStorage.Shared.Assets.Melee.WarAxe.Animations.Slash2_2
+["Slash3_2"] = "rbxassetid://13458987024",
+-- ReplicatedStorage.Shared.Assets.Melee.WarAxe.Animations.Slash3_2
+
+-- ── WarHammer ──
+["Slash3"] = "rbxassetid://13499420642",
+-- ReplicatedStorage.Shared.Assets.Melee.WarHammer.Animations.Slash3
+["Slash2"] = "rbxassetid://13499414413",
+-- ReplicatedStorage.Shared.Assets.Melee.WarHammer.Animations.Slash2
+["Slash1"] = "rbxassetid://13499406618",
+-- ReplicatedStorage.Shared.Assets.Melee.WarHammer.Animations.Slash1
+
+-- ── Yoru ──
+["Slash1"] = "rbxassetid://13487566685",
+-- ReplicatedStorage.Shared.Assets.Melee.Yoru.Animations.Slash1
+["Slash2"] = "rbxassetid://13487573091",
+-- ReplicatedStorage.Shared.Assets.Melee.Yoru.Animations.Slash2
+["Slash3"] = "rbxassetid://13487576270",
+-- ReplicatedStorage.Shared.Assets.Melee.Yoru.Animations.Slash3
+
+-- ── Zweihander ──
+["Slash1"] = "rbxassetid://11696668442",
+-- ReplicatedStorage.Shared.Assets.Melee.Zweihander.Animations.Slash1
+["Slash2"] = "rbxassetid://11696676120",
+-- ReplicatedStorage.Shared.Assets.Melee.Zweihander.Animations.Slash2
+["Slash3"] = "rbxassetid://11696678844",
+-- ReplicatedStorage.Shared.Assets.Melee.Zweihander.Animations.Slash3
+["Slash1_2"] = "rbxassetid://13458927861",
+-- ReplicatedStorage.Shared.Assets.Melee.Zweihander.Animations.Slash1_2
+["Slash2_2"] = "rbxassetid://13458929077",
+-- ReplicatedStorage.Shared.Assets.Melee.Zweihander.Animations.Slash2_2
+["Slash3_2"] = "rbxassetid://13458932087",
+-- ReplicatedStorage.Shared.Assets.Melee.Zweihander.Animations.Slash3_2
